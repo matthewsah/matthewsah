@@ -1,5 +1,5 @@
 # About Me:
-💡 I'm currently a senior computer science major at the University of California, Irvine<br>🌱 I’m currently learning modern web development tools such as MongoDb, Node.js, Express.js, and React<br>⚡ Fun fact I am a member of the Division 1 Men's tennis team at my University
+💡 I'm currently a Senior Computer Science major at the University of California, Irvine<br>🌱 I’m currently learning modern web development tools such as MongoDb, Node.js, Express.js, and React<br>⚡ Fun fact I am a member of the Division 1 Men's tennis team at my University
 
 
 ## 🌐 Socials:
