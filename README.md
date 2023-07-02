@@ -1,5 +1,5 @@
 # About Me:
-💡 I am an incoming student in the Master of Software Engineering program at the University of California-Irvine expecting to complete my degree in December, 2024. I recently completed B.S. in Computer Science at the University of California-Irvine in March, 2023. I am interested in Full-Stack Web Development, especially on the Backend side. 
+💡 I am an incoming student in the Master of Software Engineering program at the University of California-Irvine expecting to complete my degree in December, 2024. I recently completed B.S. in Computer Science at the University of California-Irvine in March, 2023 and have interest in Backend/Full Stack development. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matt.sah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-sah-260546162) 
